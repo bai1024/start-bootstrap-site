@@ -14,10 +14,23 @@ body{
 .nav{
   position: fixed;
   width: 100%;
+  display: flex;
+  justify-content: space-between;
  }
 
 .nav > p{
-  display: inline-block;
+  color: rgba(255, 255, 255, 0.701961);
+  font-weight: bold;
+  font-size: 13px;
+  padding:15px;
+  margin: 0;
+}
+
+.nav > div {
+  display: flex;
+ }
+
+.nav > div > p {
   color: rgba(255, 255, 255, 0.701961);
   font-weight: bold;
   font-size: 13px;
@@ -30,15 +43,10 @@ body{
   cursor: pointer;
 }
 
-.nav > p:nth-child(1){
-  margin-right: 68%;
-  margin-left: 15px;
-  font-size: 18px;
-}
-
-.nav > hr:last-child{
-  border-color: rgba(255, 255, 255, 0.3);
+.header > hr {
   margin-top: 0;
+  padding-top: 50px;
+  border-color: rgba(255, 255, 255, 0.3);
 }
 
 .container{
@@ -299,16 +307,11 @@ footer > p{
 }
 
 .icon{
+  display: flex;
   width: 55%;
   margin:auto;
-}
-
-.icon-box{
-  margin-left:8%;
-  width: 16.6%;
-  display: inline-block;
-  padding: 0 15px;
-  text-align: center;  
+  justify-content: space-around;
+  text-align: center;
 }
 
 .icon-box > i{
@@ -318,11 +321,6 @@ footer > p{
 .icon-box > p{
   font-size: 16px;
   color: rgb(240, 95, 64);
-  margin:0 auto 20px;
-}
-
-.icon-box:nth-child(1){
-  margin-left:12.5%;
 }
 
 .icon-box > p:hover{
