@@ -1,6 +1,6 @@
 ## 2016年5月10日Bootstrap网站仿写
 <p align="center">
-    <img src="http://ok7n02kz6.bkt.clouddn.com/FgtNr8RN-hA4TjCYhLI-Cb0VcitV.png" alt="effect-pic">
+    <img src="http://ok7n02kz6.bkt.clouddn.com/FpQrsV_oXSt42hU3vasSDt1itpld.png"
 </p>
 
 ### 基本目标：
