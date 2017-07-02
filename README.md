@@ -1,6 +1,7 @@
-## start bootstrap网站首页仿写
-[Online Demo](http://dingdingbai.github.io/bootstrap-practice/)
+# Start Bootstrap Site
 
-<p align="center">	<img src="http://ok7n02kz6.bkt.clouddn.com/FpQrsV_oXSt42hU3vasSDt1itpld.png">
+仿写*Start Bootstrap*首页，[Online Demo](http://dingdingbai.github.io/start-bootstrap-site/)
 
+<p align="center">
+  <img src="http://ok7n02kz6.bkt.clouddn.com/FpQrsV_oXSt42hU3vasSDt1itpld.png">
 </p>
